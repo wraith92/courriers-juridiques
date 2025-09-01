@@ -1,7 +1,7 @@
 # =======================================
 # BACKEND C# (.NET) - Dossier back/
 # =======================================
-back/bin/
+back/LegalApi/bin/
 back/obj/
 back/[Bb]in/
 back/[Oo]bj/
