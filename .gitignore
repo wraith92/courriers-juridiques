@@ -1,24 +1,24 @@
 # =======================================
-# BACKEND C# (.NET) - Dossier back/
+# BACKEND C# (.NET) - Dossier back/LegalApi/
 # =======================================
 back/LegalApi/bin/
-back/obj/
-back/[Bb]in/
-back/[Oo]bj/
-back/*.user
-back/*.userprefs
-back/*.suo
-back/.vs/
-back/.vscode/
-back/*.csproj.user
-back/packages/
-back/*.nupkg
-back/[Dd]ebug/
-back/[Rr]elease/
-back/publish/
-back/*.cache
-back/*.swp
-back/*.swp
+back/LegalApi/obj/
+back/LegalApi/[Bb]in/
+back/LegalApi/[Oo]bj/
+back/LegalApi/*.user
+back/LegalApi/*.userprefs
+back/LegalApi/*.suo
+back/LegalApi/.vs/
+back/LegalApi/.vscode/
+back/LegalApi/*.csproj.user
+back/LegalApi/packages/
+back/LegalApi/*.nupkg
+back/LegalApi/[Dd]ebug/
+back/LegalApi/[Rr]elease/
+back/LegalApi/publish/
+back/LegalApi/*.cache
+back/LegalApi/*.swp
+back/LegalApi/*.swp
 
 # =======================================
 # FRONTEND VUE.JS - Dossier front/
