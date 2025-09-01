@@ -1,0 +1,69 @@
+# =======================================
+# BACKEND C# (.NET) - Dossier back/
+# =======================================
+back/bin/
+back/obj/
+back/[Bb]in/
+back/[Oo]bj/
+back/*.user
+back/*.userprefs
+back/*.suo
+back/.vs/
+back/.vscode/
+back/*.csproj.user
+back/packages/
+back/*.nupkg
+back/[Dd]ebug/
+back/[Rr]elease/
+back/publish/
+back/*.cache
+back/*.swp
+back/*.swp
+
+# =======================================
+# FRONTEND VUE.JS - Dossier front/
+# =======================================
+front/node_modules/
+front/dist/
+front/build/
+front/.env
+front/.env.*.local
+front/.env.local
+front/.env.development.local
+front/.env.test.local
+front/.env.production.local
+front/npm-debug.log*
+front/yarn-debug.log*
+front/yarn-error.log*
+front/.vscode/
+front/.idea/
+front/.DS_Store
+front/*.log
+front/coverage/
+front/.parcel-cache
+front/.cache
+front/.vuepress/dist
+
+# =======================================
+# FICHIERS GLOBAUX (tous dossiers)
+# =======================================
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+*.cache
+.vscode/
+.idea/
+*.swp
+*~
+*.log
+logs/
+
+# =======================================
+# EXCEPTIONS - Ne pas ignorer ces fichiers
+# =======================================
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
